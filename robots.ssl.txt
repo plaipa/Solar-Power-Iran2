@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /kirby/
+Disallow: /site/
+Disallow: /cdn-cgi/
+Allow: /media/
+
+Sitemap: https://balance.michael-aust.com/sitemap.xml
